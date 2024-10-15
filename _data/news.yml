@@ -1,68 +1,32 @@
-- date: 23 September 2024
-  headline: Aditay has successfully defended his Ph.D. thesis. Congratulations!
-
-- date: 1 July 2024
-  headline: Aditay's work on efficient self-supervised learning is accepted in ECCV'24. Congratulations!
-
-- date: 17 June 2024
-  headline: We are presenting our works on 'Data-free defense of black box models' and 'Sketch-guided image inpainting' in CVPR'24 Workshops.
-
-- date: 15 April 2024
-  headline: Gaurav has joined IIT Roorkee as an Assistant Professor. All the best Gaurav!
-
-- date: 2 November 2023
-  headline: Our research article accepted in T-NNLS. Congratulations Gaurav, Ruchit and Inder!
-
-- date: 24 October 2023
-  headline: Two papers accepted in WACV 2024. Congratulations Aditay, Yashwanth, Gaurav, Harsh, Arya!
-
-- date: 9 May 2023
-  headline: Gaurav has successfully defended his Ph.D. thesis. Congratulations Dr. Nayak!
-
-- date: 11 March 2023
-  headline: The CAFT++ paper has been accepted in IJCV. Congratulations Vikash, Himanshu and Rohit!
-
-- date: 28 February 2023
-  headline: Aditay has a paper accepted in CVPR'23. Congratulations!
-
-- date: 25 October 2022
-  headline: Congratulations to Yashwanth M. for being awarded the prestigious Prime Minister's Research Fellowship (PMRF).
-
-- date: 11 October 2022
-  headline: 3 papers accepted in WACV 2023! Congratulations Gaurav, Ruchit, Vikash, Rohit, Himanshu, Aditay and Anand (IIT-J).
-
-- date: 20 April 2022
-  headline: Congrats Gaurav, Ruchit, Rohit, Himanshu for paper in HCIS (CVPR Workshop).
-
-- date: 14 April 2022
-  headline: Congrats Chaitra for bagging best presentation award at EECS Symposium 2022, IISc.
-
-- date: 3 March 2022
-  headline: Paper accepted in CVPR 2022! Congratulations to Siddharth and all collaborators from VAL, IISc.
-
-- date: 14 October 2021
-  headline: Congrats Gaurav and Ruchit for Paper in WACV 2022.
-
-- date: 15 October 2021
-  headline: Congrats Chaitra and Ruchit for Paper in BMVC 2021.
-
-- date: 29 September 2021
-  headline: Paper accepted at NeurIPS 2021 in collaboration with VAL (IISc) members, congratulations Siddharth!
-
-- date: 17 August 2021
-  headline: Congrats Vikash, Rohit for paper in TradiCV ICCV Workshop.
-
-- date: June 2020 
-  headline: Congratulations Prof. Anirban Chakraborty on receiving an Outstanding Reviewer award at CVPR 2020!
-
-- date: February 2020
-  headline: Siddharth Seth has 1 paper accepted at CVPR 2020. Congratulations Siddharth!
-
-- date: December 2019 
-  headline: Siddharth Seth has received Microsoft and Pratiksha Trust travel grants for presenting his work at AAAI 2020
-
-- date: November 2019 
-  headline: 2 papers accepted at AAAI 2020. Congratulations Gaurav and Siddharth!
-
-- date: September 2019 
-  headline: 1 paper accepted at WACV 2020. Congratulations Surbhi!
+- date: May 2024
+  description: "Joined <a href=\"https://www.earthdata.nasa.gov/esds/impact\">NASA IMPACT</a> as a Computer Scientist II."
+- date: Jan 2024
+  description: "Started working as a Teaching Assistant for a fantastic course on <a href=\"https://sites.google.com/ucr.edu/ee260b-w24/home\">Trustworthy AI</a> by <a href=\"https://jiachenli94.github.io/\">Prof. Jiachen Li</a>."
+- date: Nov 2023
+  description: "One paper on Self-Supervised Human Silhouette Extraction under Occlusion got accepted at WACV-2024 conference <a href=\"https://www.linkedin.com/posts/rohit-lal_ai-machinelearning-computervision-activity-7150061004364615680-M9pw?utm_source=share&utm_medium=member_desktop\">[LinkedIn Post]</a>."
+- date: July 2023
+  description: "One paper on Source free Pose Adaptation got accepted at <a href=\"https://iccv2023.thecvf.com/\">ICCV-2023</a> conference!"
+- date: Apr 2023
+  description: "Serving as a reviewer for <a href=\"https://iccv2023.thecvf.com/\">ICCV-2023</a> conference."
+- date: Mar 2023
+  description: "Our work at IISc on <i>Improving Domain Adaptation through Class Aware Frequency Transformation</i> got accepted to the <a href=\"https://www.springer.com/journal/11263\">International Journal of Computer Vision (IJCV)</a>."
+- date: Oct 2022
+  description: "Our paper on <i>CoNMix for Source-free Single and Multi-target Domain Adaptation</i> got accepted at the <a href=\"https://wacv2023.thecvf.com/home\">Winter Conference on Applications of Computer Vision (WACV) 2023</a>."
+- date: Apr 2022
+  description: "Paper on <a href=\"https://sites.google.com/view/sample-adv-trustworthy/\">Holistic Approach to Measure Sample-level Adversarial Vulnerability and its Utility in Building Trustworthy Systems</a> got accepted at <a href=\"https://sites.google.com/nycu.edu.tw/hcis/home\">HCIS Workshop, CVPR'22</a>."
+- date: Oct 2021
+  description: "Our paper <a href=\"https://ivlabs.github.io/os-nsmt/\">Open-Set Multi-Source Multi-Target Domain Adaptation</a> got accepted at <a href=\"https://preregister.science/\">Pre-registration Workshop, NeurIPS'21</a>."
+- date: Aug 2021
+  description: "Our work at IISc on <a href=\"https://vclab-dev.github.io/CAFT/\">CAFT- Class Aware Frequency Transform for Reducing Domain Gap</a> got accepted at <a href=\"https://sites.google.com/view/tradicv\">TradiCV Workshop, ICCV'21 </a>."
+- date: Jul 2021
+  description: "Joining as a Project Assistant at <a href=\"http://visual-computing.in/home/\">Visual Computing Lab, IISc Bangalore</a>."
+- date: Nov 2020
+  description: "Completed my intern work at <a href=\"http://www.nus.edu.sg/\" target=\"_blank\">NUS - National University of Singapore</a> on 6DOF origami pose estimation. Check out the <a href=\"https://youtu.be/59ahQ5n6Snk\">Video Here</a>"
+- date: Aug 2020
+  description: "First position holder of <a href=\"https://www.sih.gov.in/\" rel=\"noopener\">Smart India Hackathon 2020</a> conducted by MHRD winning cash prize of Rs. 1,00,000 <a href=\"https://youtu.be/Y-EuzsubixI\">[Video Link]</a>."
+- date: Aug 2020
+  description: "Collaborated with a senior scientist at <a href=\"https://drdo.gov.in/labs-establishment/about-us/centre-artificial-intelligence-robotics-cair\" rel=\"noopener\">CAIR Lab, DRDO</a> on drone image tracking, detection and pose estimation."
+- date: Jun 2020
+  description: "Made two GitHub repository <a href=\"https://github.com/IvLabs/resources\">IvLabs/resources</a> and <a href=\"https://github.com/IvLabs/ResearchPaperNotes\">IvLabs/ResearchPaperNotes</a> which started to gain popularity!"
+- date: Feb 2020
+  description: "Bagged two first position in two different competitions named 'Techno.Docx' and 'Electroblitz' at <a href=\"https://www.instagram.com/axis_vnit/?hl=en\">AXIS'20, VNIT | Central India's Largest Techfest</a>."

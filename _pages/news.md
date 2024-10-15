@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: textlay
+layout: aboutlay
 excerpt: "VCL News"
 sitemap: false
 permalink: /allnews/
@@ -8,6 +8,12 @@ permalink: /allnews/
 
 # News
 
-{% for article in site.data.news %}
-<b>{{ article.date }}</b>: {{ article.headline}}
-{% endfor %}
+<ul>
+  {% for item in site.data.news %}
+  <li>
+    <p>
+      <b>[{{ item.date }}]</b> {{ item.description }}
+    </p>
+  </li>
+  {% endfor %}
+</ul>
